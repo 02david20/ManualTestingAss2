@@ -1,4 +1,17 @@
+
 0 0
+0
+qF//0
+0
 1 1
-1 1
-TypeMismatch: ASSIGN r e
+hT7Z//0 qF//0
+0
+2 1
+0
+3 1
+nyjyUy//3 hT7Z//0 qF//0 oF1CiL//0
+4 1
+qB//0 hT7Z//0 oF1CiL//0 nyjyUy//3 qF//0
+5 2
+oF1CiL//0 hT7Z//0 qB//0 nyjyUy//3 qF//0
+TypeMismatch: ASSIGN hT7Z oF1CiL
