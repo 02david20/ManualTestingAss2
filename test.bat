@@ -12,11 +12,13 @@ set state=true
 :Loop
      cls
      if %i% == %num% goto endLoop
-     Del save.txt && type NUL > save.txt&&set testName=%testDir%test%i%%filetype%&&set resName=%resultDir%res%i%%filetype%
-     main.exe testname>save.txt
      cls
+     Del save.txt && type NUL > save.txt&&set testName=%testDir%test%i%%filetype%&&set resName=%resultDir%res%i%%filetype%
+     main.exe %testname%>save.txt
      fc save.txt %resName%>>log.txt
      set /A i+=1
+     cls
      goto Loop
 :endLoop 
+PAUSE
 Del save.txt
