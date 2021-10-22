@@ -1,1 +1,4 @@
-0 0
+0 
+1 1
+lD//2 oU89//0
+TypeMismatch: ASSIGN lD oU89(oU89,'HePt',lD)

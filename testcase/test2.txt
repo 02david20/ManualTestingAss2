@@ -1,0 +1,7 @@
+BEGIN
+BEGIN
+INSERT r number true
+INSERT o_f_3 string false
+BEGIN
+INSERT e string false
+ASSIGN r e

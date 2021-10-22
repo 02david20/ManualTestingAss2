@@ -1,1 +1,4 @@
-Invalid: 
+0 0
+1 1
+1 1
+TypeMismatch: ASSIGN r e

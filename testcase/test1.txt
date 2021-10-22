@@ -1,1 +1,8 @@
-INSERT x number true
+BEGIN
+INSERT oU89 (string,string,number)->number true
+BEGIN
+INSERT lD number false
+PRINT
+END
+END
+ASSIGN lD oU89(oU89,'HePt',lD)
