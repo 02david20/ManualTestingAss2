@@ -7,8 +7,6 @@ cls
      set /A i = 1
      set /A num = 100
 cls
-set  flag=true
-set state=true
 :Loop
      cls
      if %i% == %num% goto endLoop
